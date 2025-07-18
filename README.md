@@ -2,12 +2,12 @@
 <p align="center">welcome to my github profile, nothing to see here :3</p>
 
 <div>
-  <div align="center">
+  <div align="right">
     <img src="/lain.gif" alt="lain" align="right" width="400"/>
   </div>
 </div>
 
-<div align="center">
+<div align="left">
   <a>
     <img src="https://lanyard.kyrie25.dev/api/802819019631099934?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.2)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true&idleMessage=probably%20doing%20something%20else..." />
   </a>
@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" alt="bash"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="css3"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="html5"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javaScript"/>
     <br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="javaScript"/>
     <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="markdown"/>
     <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="python"/>
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white" alt="rust"/>
@@ -30,17 +30,19 @@
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white" alt="solidity"/>
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" alt="typescript"/>
     <img src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white" alt="restructured text"/>
-  </p>
+  </p>  
   
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="bootstrap"/> 
     <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django"/> 
     <img src="https://img.shields.io/badge/Ethers.js-2535A0?logo=Ethers&logoColor=white" alt="ethersjs"/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="expressjs"/> 
+    <br>
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="expressjs"/>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" alt="flutter"/> 
     <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="nodejs"/> 
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="react"/> 
+    <br>
     <img src="https://img.shields.io/badge/Remix-%23000.svg?logo=remix&logoColor=white" alt="remix"/>
     <img src="https://img.shields.io/badge/RollupJS-ef3335?logo=Rollup.js&logoColor=white" alt="rollupjs"/> 
     <img src="https://img.shields.io/badge/Socket.io-black?logo=Socket.io&badgeColor=010101" alt="socketio"/>
