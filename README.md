@@ -51,3 +51,13 @@
     </p>
   </details>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudo-shin&color=4E4FEB&style=plastic&label=Visitors" alt="Profile views" />
+</div>
+
